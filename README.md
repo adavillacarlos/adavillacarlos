@@ -7,8 +7,7 @@ I'm a design-minded fullstack software developer focused on building beautiful i
 🔭 Currently crafting an **AI-powered Expense Tracker** — imagine budgeting meets brainpower.  <br>
 🌱 Deep-diving into **Next.js** to stay ahead in the fullstack game.  <br>
 💬 Hit me up about **freelancing**, **building from scratch**, or how to make your UI actually *make sense*.  <br>
-📫 Let’s connect:  
-<br> -🌐 [Portfolio](https://adavillacarlos.github.io/ada/)  
+🌐 [Portfolio](https://adavillacarlos.github.io/ada/)  <br>
 
 ⚡ Fun fact: I design like an artist 🎨, debug like a detective 🕵️‍♂️, and build like a minimalist 🛠.
 <br>
